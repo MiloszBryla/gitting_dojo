@@ -2,6 +2,8 @@ def introduce():
     print("Hello once again!")
     print("Hello, I'm not Dupa!")
 
+    print("dlaczego to nie działa?!")
+
 def add(add):
     
     return add
