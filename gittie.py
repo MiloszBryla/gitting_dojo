@@ -4,6 +4,8 @@ def introduce():
 
     print("dlaczego to nie działa?!")
 
+    print('to jest zmiana b')
+
 def add(add):
     
     return add
